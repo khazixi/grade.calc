@@ -1,5 +1,10 @@
 <script>
-  import '../app.css'
+	import '../app.css';
 </script>
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+<h1>Grade.calc</h1>
+
+<h2>All in One</h2>
+<p>
+	<b>Grade.calc</b> provides all the features necessary for calculating your grade for the class.
+</p>
