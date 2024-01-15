@@ -33,7 +33,7 @@
 		<input class="border p-1 rounded-sm" type="number" bind:value={quiz[2]} min="0" max="100" />
 
 		<p class="border p-1 rounded-sm">
-			{grade}
+			{grade.toFixed(2)}
 		</p>
 	</form>
 </main>
